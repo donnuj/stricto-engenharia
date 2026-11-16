@@ -28,3 +28,19 @@ yarn-error.log*
 .DS_Store
 *.pem
 Thumbs.db
+
+# claude
+.claude/
+
+# source/temp files at root
+*.mp4
+*.pdf
+*.jpeg
+*.jpg
+*.png
+!public/**
+Portfolio/
+logo-rodape-footer.png
+logo-stricto.png
+stricto.png
+foco-video-background.png
