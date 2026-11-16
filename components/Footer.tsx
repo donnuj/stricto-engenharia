@@ -16,9 +16,9 @@ export default function Footer() {
             <Image
               src="/logo.png"
               alt="Stricto Engenharia"
-              width={160}
-              height={54}
-              className="h-9 w-auto object-contain"
+              width={624}
+              height={172}
+              className="h-12 w-auto object-contain"
             />
           </div>
 
